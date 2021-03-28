@@ -1,0 +1,19 @@
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Новая папка\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\kuffa\Desktop\OpenCG_LAB1-ca365122be53f1d17f36741a487b0262959ec194\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
